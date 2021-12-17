@@ -1,0 +1,13 @@
+Scooby Doo,12
+Lady Gaga,54
+Lindsay Lohan,12
+Taylor Swift,233
+Adele,12
+Shia LaBeouf,14
+
+Adele,17
+Lady Gaga,78
+Lindsay Lohan,17
+Scooby Doo,17
+Shia LaBeouf,20
+Taylor Swift,337
